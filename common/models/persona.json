@@ -1,0 +1,31 @@
+{
+  "name": "Persona",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "nombre": {
+      "type": "string",
+      "id": true,
+      "required": true
+    },
+    "contra": {
+      "type": "string",
+      "required": true
+    },
+    "rol": {
+      "type": "string",
+      "required": true
+    },
+    "puntuacion": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
