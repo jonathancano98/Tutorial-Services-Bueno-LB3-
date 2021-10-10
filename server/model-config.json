@@ -36,7 +36,11 @@
     "public": false
   },
   "Persona": {
-    "dataSource": "db2",
+    "dataSource": "dbfichero",
+    "public": true
+  },
+  "equipo": {
+    "dataSource": "dbfichero",
     "public": true
   }
 }

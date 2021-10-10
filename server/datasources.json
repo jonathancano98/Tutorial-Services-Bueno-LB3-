@@ -8,5 +8,11 @@
     "localStorage": "",
     "file": "./data/db.json",
     "connector": "memory"
+  },
+  "dbfichero": {
+    "name": "dbfichero",
+    "localStorage": "",
+    "file": "datos.json",
+    "connector": "memory"
   }
 }

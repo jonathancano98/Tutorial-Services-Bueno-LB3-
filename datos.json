@@ -1,0 +1,19 @@
+{
+  "ids": {
+    "Persona": 5,
+    "equipo": 4
+  },
+  "models": {
+    "Persona": {
+      "Hleb": "{\"nombre\":\"Hleb\",\"contra\":\"HHH\",\"rol\":\"Alumno\",\"puntuacion\":0,\"idEquipo\":1}",
+      "Dainara": "{\"nombre\":\"Dainara\",\"contra\":\"DDD\",\"rol\":\"Alumno\",\"puntuacion\":0,\"idEquipo\":1}",
+      "Ana": "{\"nombre\":\"Ana\",\"contra\":\"AAA\",\"rol\":\"Alumno\",\"puntuacion\":0,\"idEquipo\":2}",
+      "Lucia": "{\"nombre\":\"Lucia\",\"contra\":\"LLL\",\"rol\":\"Profesor\",\"puntuacion\":0,\"idEquipo\":0}"
+    },
+    "equipo": {
+      "1": "{\"nombre\":\"tigres\",\"capitan\":\"pendiente\",\"id\":1}",
+      "2": "{\"nombre\":\"leones\",\"capitan\":\"pendiente\",\"id\":2}",
+      "3": "{\"nombre\":\"jirafas\",\"capitan\":\"pendiente\",\"id\":3}"
+    }
+  }
+}
