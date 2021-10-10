@@ -13,7 +13,9 @@
       "Sofia": "{\"nombre\":\"Sofia\",\"contra\":\"SSS\",\"rol\":\"Profesor\",\"puntuacion\":7}",
       "Antonio": "{\"nombre\":\"Antonio\",\"contra\":\"AAA\",\"rol\":\"Profesor\",\"puntuacion\":5}",
       "Maria": "{\"nombre\":\"Maria\",\"contra\":\"MMM\",\"rol\":\"Alumno\",\"puntuacion\":13}",
-      "Guille": "{\"nombre\":\"Guille\",\"contra\":\"GGG\",\"rol\":\"Alumno\",\"puntuacion\":3}"
+      "Guille": "{\"nombre\":\"Guille\",\"contra\":\"GGG\",\"rol\":\"Alumno\",\"puntuacion\":3}",
+      "Luis": "{\"nombre\":\"Luis\",\"contra\":\"LLL\",\"rol\":\"Alumno\",\"puntuacion\":3}"
+
     }
   }
 }
